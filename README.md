@@ -1,21 +1,17 @@
-## Description
+## Descricion
 
-Plugin to set volume of the music stream.
+Plugin para setear el volumen de la app
 
-## Supported Platforms
+## plataformas soportadas
 
 Android
 
-## Installation
+## Instalacion
 
-Adding the Plugin to your project:
-```bash
+agregar el plug in
 cordova plugin add https://github.com/paredesivan/cordova-plugin-volumen
-```
 
-## Example
+## Ejemplo
 
-```bash
-//set the sound to maximum
+//setear el sonido al maximo
 sistema.setearVolumen(1.0);
-```
