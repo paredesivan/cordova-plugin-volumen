@@ -17,5 +17,5 @@ cordova plugin add https://github.com/paredesivan/cordova-plugin-volumen
 
 ```bash
 //set the sound to maximum
-window.system.setSystemVolume(1.0);
+sistema.setearVolumen(1.0);
 ```
