@@ -8,8 +8,9 @@ Android
 
 ## Instalacion
 
-agregar el plug in
-cordova plugin add https://github.com/paredesivan/cordova-plugin-volumen
+agregar el plug in:
+
+    cordova plugin add https://github.com/paredesivan/cordova-plugin-volumen
 
 ## Ejemplo
 
