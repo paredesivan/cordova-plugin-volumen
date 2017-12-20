@@ -10,7 +10,7 @@ Android
 
 Adding the Plugin to your project:
 ```bash
-cordova plugin add https://github.com/paredesivan/phonegap-plugin-systemvolume.git
+cordova plugin add https://github.com/paredesivan/cordova-plugin-volumen
 ```
 
 ## Example
