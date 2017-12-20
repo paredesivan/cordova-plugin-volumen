@@ -1,4 +1,4 @@
-## Descricion
+## Descripcion
 
 Plugin para setear el volumen de la app
 
