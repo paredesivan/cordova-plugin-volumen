@@ -1,4 +1,4 @@
-package com.jiliac.systemvolume;
+package com.paredesivan.volumen;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
@@ -7,7 +7,6 @@ import org.json.JSONException;
 
 import android.content.Context;
 import android.media.AudioManager;
-import android.os.Vibrator;
 
 public class SystemVolume extends CordovaPlugin {
 	public SystemVolume(){
@@ -32,10 +31,6 @@ public class SystemVolume extends CordovaPlugin {
 			AudioManager.STREAM_MUSIC,
 			(int) (am.getStreamMaxVolume(AudioManager.STREAM_MUSIC) * volume),
 			0);
-		/*am.setStreamVolume(
-			AudioManager.STREAM_SYSTEM,
-			(int) (am.getStreamMaxVolume(AudioManager.STREAM_SYSTEM) * volume),
-			0);
-			*/
+
 	}
 }
