@@ -15,4 +15,5 @@ agregar el plug in:
 ## Ejemplo
 
 //setear el sonido al maximo
-sistema.setearVolumen(1.0);
+
+    sistema.setearVolumen(1.0);
